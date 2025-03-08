@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm YASHIRU CHAMIKA</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashiru1365&label=Profile%20views&color=0e75b6&style=flat" alt="yashiruchamika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashiruchamika&label=Profile%20views&color=0e75b6&style=flat" alt="yashiruchamika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashiru1365" alt="yashiru1365" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashiruchamika" alt="yashiruchamika" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chamikayashiru" target="blank"><img src="https://img.shields.io/twitter/follow/chamikayashiru?logo=twitter&style=for-the-badge" alt="chamikayashiru" /></a> </p>
 
@@ -30,17 +30,17 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yashiru1365&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=yashiruchamika&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashiru1365&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashiruchamika&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashiru1365&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="yashiru1365" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashiruchamika&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="yashiruchamika" /></p>
       
 
 
