@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASHIRU CHAMIKA</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashiru1365&label=Profile%20views&color=0e75b6&style=flat" alt="yashiru1365" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashiru1365&label=Profile%20views&color=0e75b6&style=flat" alt="yashiruchamika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashiru1365" alt="yashiru1365" /></a> </p>
 
